@@ -293,6 +293,6 @@ The practical work demonstrates how web security findings can be converted into 
 This repository is intended strictly for authorized cybersecurity education, research, and lab practice.
 The techniques demonstrated here must not be used against systems, applications, networks, or accounts without explicit authorization.
 👨‍💻 Author
-Harsh Dankhra
+Krina Sorathiya
 Cybersecurity | VAPT | Web Application Security
 ⭐ If this project helps you understand the fundamentals of web security testing, consider giving the repository a star.
